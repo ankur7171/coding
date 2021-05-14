@@ -1,0 +1,26 @@
+
+.popup_import{
+    border: 1px solid black;
+    width: 550px;
+    height: auto;
+    background: white;
+    border-radius: 3px;
+    margin: 0 auto;
+    padding: 5px;
+
+}
+
+.format{
+    color: red;
+}
+
+#userTable{
+    border-collapse: collapse;
+    margin: 0 auto;
+    margin-top: 15px;
+    width: 550px;
+}
+
+#but_import{
+    margin-left: 10px;
+}

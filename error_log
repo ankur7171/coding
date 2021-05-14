@@ -1,0 +1,6 @@
+[10-Dec-2020 10:49:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/gemc2020/public_html/webinar/import/index1.php on line 56
+[10-Dec-2020 10:50:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/gemc2020/public_html/webinar/import/index1.php on line 56
+[10-Dec-2020 10:53:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/gemc2020/public_html/webinar/import/index1.php on line 56
+[10-Dec-2020 10:59:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/gemc2020/public_html/webinar/import/index1.php on line 57
+[10-Dec-2020 10:59:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/gemc2020/public_html/webinar/import/index1.php on line 57
+[10-Dec-2020 11:00:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/gemc2020/public_html/webinar/import/index1.php on line 57
